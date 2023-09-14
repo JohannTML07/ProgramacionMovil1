@@ -69,7 +69,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-/*prueba*/
+/*prueba 1*/
 @Composable
 fun TipTimeLayout() {
     var amountInput by remember { mutableStateOf("") }
