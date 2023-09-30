@@ -13,10 +13,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.woof.ui.theme
+import androidx.compose.ui.text.font.Font
+import androidx.compose.ui.text.font.FontFamily
+import com.example.woof.R
+import androidx.compose.ui.text.font.FontWeight
 
-import androidx.compose.material3.Typography
+val Montserrat = FontFamily(
+    Font(R.font.montserrat_regular)
+)
 
-// Set of Material typography styles to start with
-val Typography = Typography(
+val Onest = FontFamily(
+    Font(R.font.onest_regular),
+    Font(R.font.onest_bold, FontWeight.Bold)
 )
