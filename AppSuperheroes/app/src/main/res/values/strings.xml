@@ -14,25 +14,25 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Woof</string>
-    <string name="dog_name_1">Koda</string>
-    <string name="dog_name_2">Lola</string>
-    <string name="dog_name_3">Frankie</string>
-    <string name="dog_name_4">Nox</string>
-    <string name="dog_name_5">Faye</string>
-    <string name="dog_name_6">Bella</string>
-    <string name="dog_name_7">Moana</string>
-    <string name="dog_name_8">Tzeitel</string>
-    <string name="dog_name_9">Leroy</string>
-    <string name="dog_description_1">Eating treats on the terrace</string>
-    <string name="dog_description_2">Barking at Daddy</string>
-    <string name="dog_description_3">Stealing socks</string>
-    <string name="dog_description_4">Meeting new animals</string>
-    <string name="dog_description_5">Digging in the garden</string>
-    <string name="dog_description_6">Chasing sea foam</string>
-    <string name="dog_description_7">Bothering her paw-rents</string>
-    <string name="dog_description_8">Sunbathing</string>
-    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="app_name">SuperheroApp</string>
+    <string name="super_name_1">Batman</string>
+    <string name="super_name_2">Wanda</string>
+    <string name="super_name_3">Iron Man</string>
+    <string name="super_name_4">Thor</string>
+    <string name="super_name_5">Deadpool</string>
+    <string name="super_name_6">Spiderman</string>
+    <string name="super_name_7">Superman</string>
+    <string name="super_name_8">Capitain America</string>
+    <string name="super_name_9">Flash</string>
+    <string name="super_description_1">Sale de noche</string>
+    <string name="super_description_2">Poderes telequinéticos</string>
+    <string name="super_description_3">Armadura de metal</string>
+    <string name="super_description_4">Dios del trueno</string>
+    <string name="super_description_5">No se muere</string>
+    <string name="super_description_6">Telarañas</string>
+    <string name="super_description_7">De todos poderes</string>
+    <string name="super_description_8">Tiene un escudo</string>
+    <string name="super_description_9">Corre rápido</string>
     <string name="about">About:</string>
     <string name="years_old">%d years old</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>

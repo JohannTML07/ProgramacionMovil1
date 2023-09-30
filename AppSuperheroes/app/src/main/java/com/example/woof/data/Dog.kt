@@ -30,13 +30,13 @@ data class Dog(
 )
 
 val dogs = listOf(
-    Dog(R.drawable.koda, R.string.dog_name_1, 2, R.string.dog_description_1),
-    Dog(R.drawable.lola, R.string.dog_name_2, 16, R.string.dog_description_2),
-    Dog(R.drawable.frankie, R.string.dog_name_3, 2, R.string.dog_description_3),
-    Dog(R.drawable.nox, R.string.dog_name_4, 8, R.string.dog_description_4),
-    Dog(R.drawable.faye, R.string.dog_name_5, 8, R.string.dog_description_5),
-    Dog(R.drawable.bella, R.string.dog_name_6, 14, R.string.dog_description_6),
-    Dog(R.drawable.moana, R.string.dog_name_7, 2, R.string.dog_description_7),
-    Dog(R.drawable.tzeitel, R.string.dog_name_8, 7, R.string.dog_description_8),
-    Dog(R.drawable.leroy, R.string.dog_name_9, 4, R.string.dog_description_9)
+    Dog(R.drawable.batman, R.string.super_name_1, 40, R.string.super_description_1),
+    Dog(R.drawable.wanda, R.string.super_name_2, 30, R.string.super_description_2),
+    Dog(R.drawable.ironman, R.string.super_name_3, 50, R.string.super_description_3),
+    Dog(R.drawable.thor, R.string.super_name_4, 1000, R.string.super_description_4),
+    Dog(R.drawable.deadpool, R.string.super_name_5, 35, R.string.super_description_5),
+    Dog(R.drawable.spiderman, R.string.super_name_6, 19, R.string.super_description_6),
+    Dog(R.drawable.superman, R.string.super_name_7, 26, R.string.super_description_7),
+    Dog(R.drawable.capitanamerica, R.string.super_name_8, 31, R.string.super_description_8),
+    Dog(R.drawable.flash, R.string.super_name_9, 24, R.string.super_description_9)
 )
